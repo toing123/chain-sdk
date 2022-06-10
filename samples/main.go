@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/xiaoyueya/chain-sdk/common"
-	"github.com/xiaoyueya/chain-sdk/services"
+	"github.com/toing123/chain-sdk/common"
+	"github.com/toing123/chain-sdk/services"
 )
 
 /**

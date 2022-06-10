@@ -1,4 +1,4 @@
-module github.com/xiaoyueya/chain-sdk
+module github.com/toing123/chain-sdk
 
 go 1.16
 

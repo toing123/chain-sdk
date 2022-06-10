@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/ethereum/go-ethereum/ethclient"
-	"github.com/xiaoyueya/chain-sdk/bwlog"
-	"github.com/xiaoyueya/chain-sdk/common"
+	"github.com/toing123/chain-sdk/bwlog"
+	"github.com/toing123/chain-sdk/common"
 )
 
 func AddOrUpdateChain(chainInfo *common.ChainInfo) error {

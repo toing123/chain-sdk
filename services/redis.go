@@ -2,8 +2,8 @@ package services
 
 import (
 	"github.com/go-redis/redis"
-	"github.com/xiaoyueya/chain-sdk/common"
-	"github.com/xiaoyueya/chain-sdk/redisop"
+	"github.com/toing123/chain-sdk/common"
+	"github.com/toing123/chain-sdk/redisop"
 	"time"
 )
 

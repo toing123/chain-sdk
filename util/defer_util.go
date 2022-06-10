@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/xiaoyueya/chain-sdk/bwlog"
+	"github.com/toing123/chain-sdk/bwlog"
 	"runtime/debug"
 )
 

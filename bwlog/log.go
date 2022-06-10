@@ -1,7 +1,7 @@
 package bwlog
 
 import (
-	"github.com/xiaoyueya/chain-sdk/common"
+	"github.com/toing123/chain-sdk/common"
 	"os"
 
 	"github.com/op/go-logging"

@@ -3,7 +3,7 @@ package services
 import (
 	"encoding/json"
 	"errors"
-	"github.com/xiaoyueya/chain-sdk/common"
+	"github.com/toing123/chain-sdk/common"
 )
 
 func AddOrUpdateCoin(coinInfo *common.CoinOrToken) error {
